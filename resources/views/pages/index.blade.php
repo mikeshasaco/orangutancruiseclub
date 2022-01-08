@@ -5,7 +5,7 @@
 <style>
     
     .header{
-  background-image: url('rain4.jpg');
+  background-image: url('cartoonnight.jpg');
   /* animation: holoCard 15s ease infinite; */
       height: auto;
       width: 1460;
@@ -304,7 +304,7 @@
 }
 
 #details{
-    background-image: url('waterfall.JPG');
+    background-image: url('utopia.jpg');
   /* animation: holoCard 15s ease infinite; */
       height: auto;
       width: auto;
@@ -319,7 +319,7 @@
 
 }
 #pricing{
-    background-image: url('jungle1.jpg');
+    background-image: url('nightsky.jpg');
       height: auto;
       width: auto;
       background-size: cover;
@@ -327,14 +327,14 @@
 }
 
 .basic-3{
-    background-image: url('jungle1.jpg');
+    background-image: url('vol.jpg');
       height: auto;
       width: auto;
       background-size: cover;
 
 }
 .faqtalk{
-    background-image: url('rainback.jpeg');
+    background-image: url('utopia.jpg');
       height: auto;
       width: auto;
       background-size: cover;
@@ -349,8 +349,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;">Welcome To Orangutan Cruise Club</h1>
-                        <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Earn passive income Staking Orangutan Cruise Club NFT </p>
+                        <h1 class="h1-large" style="color:white;font-family: 'Permanent Marker', cursive;">Welcome To Orangutan Cruise Club</h1>
+                        <p class="p-large" style="color:white; font-family: 'Permanent Marker', cursive">Earn passive income Staking Orangutan Cruise Club NFT </p>
                         <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->

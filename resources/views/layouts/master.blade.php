@@ -37,7 +37,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Pavo</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand "  style="color:black; font-family: 'Permanent Marker', cursive ; font-size:24px; text-decoration: none; ">Orangutan Cruise Club</a> 
+            <a class="navbar-brand "  style="color:white; font-family: 'Permanent Marker', cursive ; font-size:24px; text-decoration: none; ">Orangutan Cruise Club</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
