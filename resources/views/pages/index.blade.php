@@ -312,7 +312,7 @@
     }
 
 #Merchant-help{
-    background-image: url('rain1.jpg');
+    background-image: url('nikesky.jpg');
       height: auto;
       width: auto;
       background-size: cover;
