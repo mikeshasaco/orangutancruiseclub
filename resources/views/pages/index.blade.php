@@ -485,7 +485,7 @@
                 <div class="card-body" >
                 <h4>Level 3 Features</h4>
                 <ul>
-                    <li>Staking Orangutan Cruise Club NFT for $Durain Token</li>
+                    <li>Staking Orangutan Cruise Club NFT for $Durian Token</li>
                     <li>Voting on upcoming events</li>
                     <li>Receive Airdrops for future Orangutan Cruise Club NFTs</li>
                     <li>Exclusive Community Events for members only</li>
@@ -516,7 +516,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h2 style="color:white;font-family: 'Permanent Marker', cursive; ">Earn $Durain</h2>
+                        <h2 style="color:white;font-family: 'Permanent Marker', cursive; ">Earn $Durian</h2>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
@@ -524,7 +524,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white; font-family: 'Permanent Marker', cursive;" >Holders will be able to Stake their Orangutan and earn $Durain in which they will be able to claim anytime</div>
+                                <div class="media-body" style="color:white; font-family: 'Permanent Marker', cursive;" >Holders will be able to Stake their Orangutan and earn $Durian in which they will be able to claim anytime</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
@@ -563,7 +563,7 @@
                                     <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Launch NFT To Community Members </div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Stake their NFT earn $Durain</div>
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Stake their NFT earn $Durian</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;"> Members will be able to claim for staking NFT</div>
@@ -641,7 +641,7 @@
                         <h3 style="color:white;font-family: 'Permanent Marker', cursive;">  What is Orangutan Cruise Club? </h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;font-family: 'Permanent Marker', cursive;"> Orangutan Cruise Club is a private community for our most elagant holders, memebers of this community will be able to earn passive income by staking there NFT for $Durain token.</p>
+                                <p style="color:black;font-family: 'Permanent Marker', cursive;"> Orangutan Cruise Club is a private community for our most elagant holders, memebers of this community will be able to earn passive income by staking there NFT for $Durian token.</p>
                             </div>
 
                         </div>
@@ -664,10 +664,10 @@
                     </div> -->
 
                     <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> What is $Durain Token?</h3>
+                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> What is $Durian Token?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                            <p style="color:black;font-family: 'Permanent Marker', cursive;"> $Durain is the token in which our holders will recieve for staking there tokens, Holders will earn passive income daily in which they will be able to claim on our website!</p>
+                            <p style="color:black;font-family: 'Permanent Marker', cursive;"> $Durian is the token in which our holders will recieve for staking there tokens, Holders will earn passive income daily in which they will be able to claim on our website!</p>
 
                             </div>
 
