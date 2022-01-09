@@ -359,7 +359,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="occ.png" style="animation: holoCard 15s ease infinite;" alt="alternative">
+                        <img class="img-fluid" src="goldape.PNG" style="animation: holoCard 15s ease infinite;" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -374,7 +374,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="image-container">
-                    <img class="img-fluid" src="occ.png" alt="alternative">
+                    <img class="img-fluid" src="apegif.gif" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
@@ -405,7 +405,7 @@
                     <div class="card" style="background-color:none;">
                         <div class="card-body">
                         <div class="card-image">
-                            <img class="img-fluid" style="height:200px; width=100px;" src="occ.png" alt="alternative">
+                            <img class="img-fluid" style="height:200px; width=100px;" src="redape.PNG" alt="alternative">
                         </div>
                             <ul class="list-unstyled li-space-lg">
                            
@@ -423,7 +423,7 @@
                     <div class="card" style="">
                         <div class="card-body">
                         <div class="card-image">
-                        <img class="img-fluid" style="height:200px; width=100px;" src="occ.png" alt="alternative">
+                        <img class="img-fluid" style="height:200px; width=100px;" src="whiteape.PNG" alt="alternative">
                         </div>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
@@ -440,7 +440,7 @@
                     <div class="card" style="">
                         <div class="card-body">
                         <div class="card-image">
-                        <img class="img-fluid" style="height:200px; width=100px;" src="occ.png" alt="alternative">
+                        <img class="img-fluid" style="height:200px; width=100px;" src="blackape.PNG" alt="alternative">
                         </div>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
