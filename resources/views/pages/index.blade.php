@@ -341,40 +341,6 @@
 
 }
 
-.cardone {
-  
-  --color1: rgb(0, 231, 255);
-  --color2: rgb(255, 0, 231);
-  
-  width: 320px;
-  height: 446px;
-  /* background-color: #FFD700; */
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 5% / 3.5%;
-  box-shadow: -13px -13px 13px -15px var(--color1), 
-    13px 13px 13px -15px var(--color2), 
-    0 0 4px 2px rgba(255,255,255,0.5),
-    0 35px 25px -15px rgba(0, 0, 0, 0.3);
-  position: relative;
-  overflow: hidden;
-  display: block;
-  vertical-align: middle;
-  margin: 20px 10px;
-  /* roatation */
-  /* animation: holoCard 15s ease infinite; */
-  transform-origin: center;
-  z-index: 10;
-  overflow: hidden;
-  transform: translate3d(0,0,-1px); 
-}
-
-.cardone.cardverse {
-  --color1: #ffdf35;
-  --color2: #65f0ff;
-  background-image: url("apegif.gif");
-}
 </style>
 
 
@@ -408,9 +374,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">
-                <div class ="cardone cardverse" >
-
-</div>
+                    <div class="image-container">
+                    <img class="img-fluid" src="ape1.gif" alt="alternative">
+                    </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">

@@ -25,7 +25,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="occ.png">
+    <link rel="icon" href="logoocc.jpeg">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
