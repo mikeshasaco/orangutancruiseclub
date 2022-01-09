@@ -380,7 +380,7 @@
                 <div class="col-lg-5">
                     <div class="text-container">
                         <h2 style="color:white;font-family: 'Permanent Marker', cursive; ">About Orangutan Cruise Club</h2>
-                        <p style="color:white; font-family: 'Permanent Marker', cursive; font-weight:bold; font-size:24px;">Orangutan Cruise Club is a elegant livestyle cruise tour for our holders. The cruise consistent of different markets that our tourist will have the ability to visit. This cruise ship offer rewards for our holders for staying on the cruise ship and visiting muliptle sites during there tour across the altlantic.</p>
+                        <p style="color:white; font-family: 'Permanent Marker', cursive; font-weight:bold; font-size:24px;">Orangutan Cruise Club is an elegant livestyle cruise tour for our holders. The cruise consist of different markets that our tourist will have the ability to visit. This cruise ship offers rewards for our holders for staying on the cruise ship and visiting multiple sites during their tour across the atlantic.</p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -467,7 +467,7 @@
               <div class="card" >
                 <div class="card-body" >
                     <h4>Level 1 Board Cruise</h4>
-                    <p>Orangutan Cruise Club NFTs have finally arrived next step in the NFT metaverse. We will be releasing 10,000 unique Orangutans in the jungles on the polygon network. Our main goal for Orangutan Cruise Club is to build a unique community built with a utility for our holders. </p>
+                    <p>Orangutan Cruise Club NFTs have finally arrived next step in the NFT metaverse. We will be releasing 10,000 unique Orangutans in the jungles on the Ethereum network. Our main goal for Orangutan Cruise Club is to build a unique community built with a utility for our holders. </p>
                 </div>          
             </div>
     <div class="together" style=" overflow:auto;">
@@ -475,7 +475,7 @@
               <img src="durian.png" height="50px" display="inline" width="50px" alt=""> 
               <div class="card-body">
                 <h4>Level 2 Durian Shop</h4>
-                   <p>Orangutan Cruise Club members will be able to stake their NFT and earn $10 Durian dealing which will be our token that our holders will earn for staking their NFT. Holders will be able to claim there Durian at anytime for staking there NFT.</p>
+                   <p>Orangutan Cruise Club members will be able to stake their NFT and earn $10 Durian dealing which will be the token that our holders will earn for staking their NFT. Holders will be able to claim their $Durian at anytime for staking their NFT.</p>
                 </div>          
             </div>
     </div>
@@ -487,7 +487,7 @@
                 <ul>
                     <li>Staking Orangutan Cruise Club NFT for $Durain Token</li>
                     <li>Voting on upcoming events</li>
-                    <li>Recieve Airdrops for feature Orangutan Cruise Club NFTs</li>
+                    <li>Receive Airdrops for future Orangutan Cruise Club NFTs</li>
                     <li>Exclusive Community Events for members only</li>
                 </ul>
                 </div>          
@@ -524,7 +524,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white; font-family: 'Permanent Marker', cursive;" >Holders will be able to Stake there Orangutan and earn $Durain in which they will be able to claim anytime</div>
+                                <div class="media-body" style="color:white; font-family: 'Permanent Marker', cursive;" >Holders will be able to Stake their Orangutan and earn $Durain in which they will be able to claim anytime</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
@@ -563,10 +563,10 @@
                                     <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Launch NFT To Community Members </div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Stake there NFT earn $Durain</div>
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Stake their NFT earn $Durain</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;"> members will be able to claim for staking NFT</div>
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;"> Members will be able to claim for staking NFT</div>
                                 </li>
                 
                             </ul>
@@ -608,10 +608,10 @@
                                 <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Raising Floor of Orangutan Cruise Club</div>
                                 </li>
                                 <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Collabrating with different spaces in NFT</div>
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">collaborating with different spaces in NFT</div>
                                 </li>
                                 <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;"> Building a Metaverse for holders to communicate and collabrate together in.</div>
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;"> Building a Metaverse for holders to communicate and collaborate together.</div>
                                 </li>
                                
                             </ul>
@@ -676,7 +676,7 @@
                     </div>
 
                         <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> How can i follow us on Twitter?</h3>
+                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> How can you follow us on Twitter?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
@@ -708,7 +708,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                    Polygon Network
+                                    Ethereum Network
                                 </p>
                             </div>
 
