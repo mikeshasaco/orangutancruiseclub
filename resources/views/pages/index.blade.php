@@ -352,8 +352,8 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;font-family: 'Permanent Marker', cursive;">Welcome To Orangutan Cruise Club</h1>
                         <p class="p-large" style="color:white; font-family: 'Permanent Marker', cursive">Earn passive income Staking Orangutan Cruise Club NFT </p>
-                        <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="" target="_blank"><img  class="telegramimage"  src="images/discord.png"  alt=""></a>
+                        <a href="https://twitter.com/orangutancc" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
                         <br>
                     </div> <!-- end of text-container -->
@@ -681,7 +681,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/FinanceGundam" target="_blank">Click Here For Twitter</a>                                    
+                                        <a href="https://twitter.com/orangutancc" target="_blank">Click Here For Twitter</a>                                    
                                 </p>
                             </div>
 
