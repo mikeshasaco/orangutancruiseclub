@@ -352,7 +352,7 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;font-family: 'Permanent Marker', cursive;">Welcome To Orangutan Cruise Club</h1>
                         <p class="p-large" style="color:white; font-family: 'Permanent Marker', cursive">Earn passive income Staking Orangutan Cruise Club NFT </p>
-                        <a href="" target="_blank"><img  class="telegramimage"  src="images/discord.png"  alt=""></a>
+                        <a href="https://discord.gg/Tdd8Vxn7VD" target="_blank"><img  class="telegramimage"  src="images/discord.png"  alt=""></a>
                         <a href="https://twitter.com/orangutancc" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
                         <br>
@@ -721,8 +721,7 @@
                         <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> Where can i find the Discord link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p>
-                                </p>
+                                <a href="https://discord.gg/Tdd8Vxn7VD">Click Here For Discord</a>
                             </div>
 
                         </div>
@@ -730,15 +729,6 @@
                     </div>
 
 
-                    <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> Where can i find the Twitter link?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                </p>
-                            </div>
-
-                        </div>
 
                     </div>
                     
