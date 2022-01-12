@@ -694,7 +694,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                    Febuary 3rd 9am EST
+                                    Febuary 1st 9am EST
                                 </p>
                             </div>
 
