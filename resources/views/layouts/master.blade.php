@@ -61,7 +61,6 @@
                         <a class="nav-link page-scroll" href="#download">Download</a>
                     </li> -->
                 </ul>
-                <!-- <a class="btn btn-danger" href="http://mint.pokeversenft.com/"  style=" text-decoration: none;">Click To Mint</a> -->
                     <!-- <a href="" class="nav-link" style="color:black; font-family: 'Permanent Marker', cursive ; font-size:24px; text-decoration: none; "> Staking </a> -->
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
